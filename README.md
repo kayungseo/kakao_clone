@@ -1,2 +1,3 @@
 # kakao_clone
- clone of kakaotalk with nomad coder
+ 
+ kakaka desktop app clone
